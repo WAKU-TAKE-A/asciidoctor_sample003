@@ -12,6 +12,10 @@ asciidoctor-pdfのサンプルです。
 * 以下のコマンドを実行します。
 
 ```
+ターミナルがDOSプロンプトの場合：
+convert_pdf.bat
+
+PowerShellの場合：
 ./convert_pdf.bat
 ```
 

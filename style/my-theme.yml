@@ -143,7 +143,7 @@ footer:
     # フッター中央にページ番号＋コピーライト（右見開きページ）
     center: |
       {page-number} +
-      Copyright Canon Inc.
+      Copyright WAKU-TAKE-A
     # フッター右（右見開きページ）
     right: Fotter_Recto_Right
   verso_content:
@@ -152,7 +152,7 @@ footer:
     # フッター中央にページ番号＋コピーライト（左見開きページ）
     center: |
       {page-number} +
-      Copyright Canon Inc.
+      Copyright WAKU-TAKE-A
     # フッター右（左見開きページ）
     right: Fotter_Verso_Right
 #------
