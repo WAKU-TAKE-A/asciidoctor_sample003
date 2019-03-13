@@ -10,8 +10,9 @@
 :revdate: 2019年2月23日
 :revnumber: 1.0版
 :version-label:
-// ディレクトリやファイルなどの設定
-:imagesdir: ./images
+// ディレクトリやテーマファイルなどの設定
+// ・画像をサブディレクトリに入れるとGiHubで正常に見えません
+//:imagesdir: ./images
 :pdf-style: ./style/my-theme.yml
 // キャプションの語句
 :figure-caption: 図
