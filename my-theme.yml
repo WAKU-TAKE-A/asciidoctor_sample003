@@ -145,7 +145,7 @@ footer:
       {page-number} +
       Copyright WAKU-TAKE-A
     # フッター右（右見開きページ）
-    right: Fotter_Recto_Right
+    #right: Fotter_Recto_Right
   verso_content:
     # フッター左（左見開きページ）
     left:
@@ -154,7 +154,7 @@ footer:
       {page-number} +
       Copyright WAKU-TAKE-A
     # フッター右（左見開きページ）
-    right: Fotter_Verso_Right
+    #right: Fotter_Verso_Right
 #------
 # Heading Section
 #------
