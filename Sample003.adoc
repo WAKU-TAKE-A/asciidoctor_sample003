@@ -8,7 +8,7 @@
 :doctype: book
 :author: WAKU-TAKE-A
 :revdate: 2019年2月23日
-:revnumber: 1.0版
+:revnumber: 1.1版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
 // ・画像をサブディレクトリに入れるとGiHubで正常に見えません
@@ -29,18 +29,18 @@
 
 Asciidoctorでは、図、表、例などの番号を自動でつけることができます。以下のように、「.」を使います。
 
-```
+....
 . レナさん
 image::lena.jpg[width=128]
-```
+....
 
 以下の属性を設定することで、数字の前に付く言葉を日本語にすることができます。
 
-```
+....
 :figure-caption: 図
 :table-caption: 表
 :example-caption: 例
-```
+....
 
 == 図の場合
 
