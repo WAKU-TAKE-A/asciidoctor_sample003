@@ -13,7 +13,7 @@
 // ディレクトリやテーマファイルなどの設定
 // ・画像をサブディレクトリに入れるとGiHubで正常に見えません
 //:imagesdir: ./images
-:pdf-style: ./style/my-theme.yml
+:pdf-style: my-theme.yml
 // キャプションの語句
 :figure-caption: 図
 :table-caption: 表
