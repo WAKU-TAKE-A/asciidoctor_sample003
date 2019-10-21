@@ -1,6 +1,6 @@
-set fname_adc="Sample003.adoc"
-set fname_pdf="Sample003.pdf"
+set fname=AsciiDoc_Sample_003
+set fname_adc="%fname%.adoc"
+set fname_pdf="%fname%.pdf"
 
 if exist %fname_pdf% (del %fname_pdf%)
 asciidoctor-pdf -r asciidoctor-pdf-cjk %fname_adc%
-pause

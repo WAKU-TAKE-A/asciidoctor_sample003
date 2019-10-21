@@ -7,8 +7,9 @@ asciidoctor-pdfのサンプルです。
 * VisualStudioCodeを起動し、「フォルダを開く」。
   * RubyとAsciidoctorがインストールされていること
   * 拡張機能「AsciiDoc」がインストールされていること
+  * 「源真ゴシック」がインストールされていること
 * サイドバーのエクスプローラを押します。
-* 適当なファイルを右クリックし、「Open in Command Prompt」。
+* 適当なファイルを右クリックし、「ターミナルで開く」。
 * 以下のコマンドを実行します。ターミナルがDOSプロンプトの場合、ファイル名補完（TABキー）が使えることを確認しています。
 
 ```
@@ -22,12 +23,12 @@ PowerShellの場合：
 * BATファイルの内容は以下の通りです。
 
 ```
-set fname_adc="Sample003.adoc"
-set fname_pdf="Sample003.pdf"
+set fname=AsciiDoc_Sample_003
+set fname_adc="%fname%.adoc"
+set fname_pdf="%fname%.pdf"
 
 if exist %fname_pdf% (del %fname_pdf%)
 asciidoctor-pdf -r asciidoctor-pdf-cjk %fname_adc%
-pause
 ```
 
 * 繰り返し行う時は、ターミナル上で↑キーを押し、「Return」。

@@ -1,9 +1,9 @@
 //==========
-// Attribute
+// 属性(Attribute)
 //==========
 
 // 文書の情報
-// * :version-label: を値無しにすることで好みの記述にできます。
+// ・:version-label: を値無しにすることで好みの記述にできます
 :lang: ja
 :doctype: book
 :author: WAKU-TAKE-A
@@ -11,8 +11,7 @@
 :revnumber: 1.1版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
-// ・画像をサブディレクトリに入れるとGiHubで正常に見えません
-//:imagesdir: ./images
+:imagesdir: ./img
 :pdf-style: my-theme.yml
 // キャプションの語句
 :figure-caption: 図
@@ -20,7 +19,7 @@
 :example-caption: 例
 
 //===========
-// Body
+// 本文(Body)
 //===========
 
 = 自動連続採番について
@@ -91,3 +90,8 @@ The Lumineers,Ho Hey,Folk Rock
 * 項目3
 ====
 
+== 本ページについて
+
+本ページはAsciiDocで作成しています。 https://github.com/WAKU-TAKE-A/asciidoctor_sample003[こちら] にサンプルを置いておきます。サンプルは、「 https://waku-take-a.github.io/Visual%2520Studio%2520Code%25E3%2581%258B%25E3%2582%2589PDF%25E3%2582%2592%25E5%2587%25BA%25E5%258A%259B%25E3%2581%2599%25E3%2582%258B.html[Visual Studio CodeからPDFを出力する] 」の方法で比較的簡単にPDFやHTMLにすることができます。
+
+AsciiDoc_Sample終わり
