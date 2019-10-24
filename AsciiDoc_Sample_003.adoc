@@ -11,8 +11,9 @@
 :revnumber: 1.1版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
-:imagesdir: ./img
 :pdf-style: my-theme.yml
+:imagesdir: ./img
+//:pdf-fontsdir: ../fonts
 // キャプションの語句
 :figure-caption: 図
 :table-caption: 表
