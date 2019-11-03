@@ -84,7 +84,7 @@ The Lumineers,Ho Hey,Folk Rock
 
 .サンプルドキュメント
 ====
-これはAsciiDocのドキュメントのサンプルです。
+これはサンプルです。
 
 * 項目1
 * 項目2
@@ -93,7 +93,7 @@ The Lumineers,Ho Hey,Folk Rock
 
 .サンプルドキュメント2
 ====
-これはAsciiDocのドキュメントのサンプル2です。
+これはサンプル2です。
 
 * 項目4
 * 項目5
