@@ -7,8 +7,8 @@
 :lang: ja
 :doctype: book
 :author: WAKU-TAKE-A
-:revdate: 2019年2月23日
-:revnumber: 1.2版
+:revdate: 2019年11月3日
+:revnumber: 1.3版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
 :pdf-style: my-theme.yml
@@ -89,6 +89,15 @@ The Lumineers,Ho Hey,Folk Rock
 * 項目1
 * 項目2
 * 項目3
+====
+
+.サンプルドキュメント2
+====
+これはAsciiDocのドキュメントのサンプル2です。
+
+* 項目4
+* 項目5
+* 項目6
 ====
 
 == 本ページについて
