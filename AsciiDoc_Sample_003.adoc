@@ -7,12 +7,13 @@
 :lang: ja
 :doctype: book
 :author: WAKU-TAKE-A
-:revdate: 2019年11月3日
-:revnumber: 1.3版
+:revdate: 2022年7月11日
+:revnumber: 1.4版
 :version-label:
 // ディレクトリやテーマファイルなどの設定
-:pdf-style: my-theme.yml
 :imagesdir: ./img
+:pdf-themesdir: ./
+:pdf-theme: my-theme.yml
 //:pdf-fontsdir: ../fonts
 // キャプションの語句
 :figure-caption: 図
